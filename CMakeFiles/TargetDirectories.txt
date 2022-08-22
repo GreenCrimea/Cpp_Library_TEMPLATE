@@ -1,0 +1,3 @@
+/home/gc/VS-Projects/Cpp_Library_test/CMakeFiles/cpp_library_test.dir
+/home/gc/VS-Projects/Cpp_Library_test/CMakeFiles/edit_cache.dir
+/home/gc/VS-Projects/Cpp_Library_test/CMakeFiles/rebuild_cache.dir
